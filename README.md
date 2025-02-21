@@ -46,6 +46,6 @@ Não contenha caracteres especiais.
 Se alguma dessas validações falhar, uma mensagem de erro será exibida.
 
 🔗 Links Úteis
-Post no Área de Trampo: (https://www.areadetrampo.com.br/como-criar-um-crud-eficiente-com-fasthtml-e-python-um-guia-completo-introducao/)[Post FastHTML]
+Post no Área de Trampo: ("Post FastHTML")["https://www.areadetrampo.com.br/como-criar-um-crud-eficiente-com-fasthtml-e-python-um-guia-completo-introducao/"]
 
 Documentação do FastHTML: [Link para a documentação oficial do FastHTML]
