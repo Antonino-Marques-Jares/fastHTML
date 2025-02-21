@@ -12,7 +12,40 @@ Este projeto é um exemplo de aplicação web utilizando o framework **FastHTML*
 
 ## 🛠️ Instalação
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/fasthtml-crud-pessoas.git
-   cd fasthtml-crud-pessoas
+1. Clone o repositório:
+   git clone git@github.com:Antonino-Marques-Jares/fastHTML.git
+   
+2. Instale as dependências:
+   Instale o Python e FastHTML
+
+3.Execute a aplicação:
+   python main.py
+
+4.Acesse a aplicação:
+  Abra o navegador e acesse http://localhost:5001/frm/pessoa
+
+🚀 Como Usar
+
+Adicionar uma Pessoa: Preencha o campo "Nome" no formulário e clique em "Adicionar".
+
+Editar uma Pessoa: Clique no botão "✏️ Editar" ao lado da pessoa que deseja editar, faça as alterações necessárias e clique em "Salvar".
+
+Excluir uma Pessoa: Clique no botão "✖ Excluir" ao lado da pessoa que deseja remover.
+
+Navegar entre as páginas: Utilize os botões de paginação para navegar entre as páginas da lista de pessoas.
+
+📝 Validação de Formulário
+O campo "Nome" é validado para garantir que:
+
+Não esteja vazio.
+
+Não contenha números.
+
+Não contenha caracteres especiais.
+
+Se alguma dessas validações falhar, uma mensagem de erro será exibida.
+
+🔗 Links Úteis
+Post no Área de Trampo: www.areadetrampo.com.br/fasthtml
+
+Documentação do FastHTML: [Link para a documentação oficial do FastHTML]
