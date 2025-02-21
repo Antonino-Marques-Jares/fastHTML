@@ -1,0 +1,8 @@
+# Definir o número de registros por página
+NUMERO_REGISTROS_POR_PAGINA = 5
+
+REGEX_VALIDAR = {
+    "tem_numeros": r"\d", 
+    "tem_caracteres_especiais": r"[^\w\s]",  
+    "apenas_letras_e_espacos": r"^[A-Za-zÀ-ÖØ-öø-ÿ\s]+$"  
+}
